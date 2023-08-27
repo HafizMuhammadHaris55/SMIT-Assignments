@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div{
+    padding-left :40px ;
+    background-color: lightgray ;
+}
+a{
+    padding-left:50px ;
+}
+#a1{
+    padding-left: 500px;
+}
+#a2{
+    padding-left:50px ;
+    padding-right: 30px;
+}
+button{
+    color: aliceblue;
+    background-color: orangered;
+    padding: 7px;
+    margin:8px ;
+}
+#a3{
+    margin-top: -150px;
+    margin-right: 200px;
+}
+.b{
+    margin-bottom:-20px ;
+}
+#b1{
+    color: aliceblue;
+    background: black;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+} 
+.left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.left span{
+    padding-left: 1rem;
+}
+
+.flex{
+    display: flex;
+}
+.flex-1{
+    flex: 1;
+}
+.align-items-center{
+    align-items: center;
+}
+
+input[type=text]{
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+    display: block;
+    border-le: ;
+}

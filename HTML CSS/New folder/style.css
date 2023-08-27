@@ -1,0 +1,109 @@
+
+#blue{
+    
+    background: blue;
+    color: white;
+    border: none;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+#white{
+    
+    background:white;
+    color: black;
+    border: none;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+#white:hover{
+    background-color: gray;
+}
+#blue:hover{
+    background-color: darkblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bgcolor{
+    background-color: black;
+    margin-top: 40px;
+    padding: 40px;
+}
+.color{
+    color: white;
+    text-align: center;
+}
+.tool{
+    color: gray;
+    text-align: center;
+}
+#style1{
+ text-align: center;
+    
+ background: #000;
+ color: lightblue;
+ border: none;
+ border: 1px solid lightblue;
+ border-radius: 8px;
+ outline: lightblue;
+ 
+}
+#style2{
+    text-align: center;
+    background: #000;
+    color: white;
+    border: none;
+    border: 1px solid white;
+    border-radius: 8px;
+    
+}
+#style2:hover{
+    color: gray;
+    background-color: white;
+}
+#style1:hover{
+    color:black;
+    background-color: lightblue;
+}
+@media (min-width:420px) and (max-width:1000px) {
+
+ #bgcolor{
+           background-color:yellow ;
+           text-align: center;
+           text-shadow: 20px 20px 20px;
+
+
+
+
+}
+
+
+
+}
+#border{
+
+     border: none;
+    border-bottom: 2px solid black;
+    width: 10%;
+
+}
+#position{
+    
+    
+}

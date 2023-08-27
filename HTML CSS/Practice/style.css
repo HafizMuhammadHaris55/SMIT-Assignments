@@ -1,0 +1,15 @@
+#img{
+    background-color: #F7F7F7;
+}
+.padding{
+    padding-left: 50px;
+    text-decoration: none;
+    color: black;
+}
+#button1{
+    background-color: #E75F3D;
+    border: none;
+    color: white;
+    margin-left: 30px;
+    padding: 5px 20px;
+}

@@ -1,0 +1,23 @@
+
+{
+    
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    position: relative;
+    display: inline;
+    
+}
+p{  text-decoration-style:dotted ;
+    text-decoration-color:blue ;
+    text-decoration-line:underline ;
+    text-indent: 20px;
+    word-spacing: 50px;
+    letter-spacing: 2px;
+}
+
+#style{
+    text-align: center;
+    text-shadow:-20px 20px 10px blue ;
+   flex-grow: 100;
+}

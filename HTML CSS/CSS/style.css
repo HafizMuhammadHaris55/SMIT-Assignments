@@ -1,0 +1,50 @@
+.a1{
+    color: red;
+}
+h1{
+
+color: blue;
+}
+audio{
+    border: 5px  black ;
+    padding: 20px 50px 30px;
+    margin: 20px;
+    border-radius: 50px;
+    border-style: dotted;
+}
+a:hover{
+    cursor: grabbing;
+    color: yellow;
+    background-color: crimson;
+}
+a{
+
+background-color: tomato;
+    color: brown;
+}
+p::selection{
+    color: blue;
+    background: red;
+}
+body{
+    background:#089 ;
+}
+button{
+    color: springgreen;
+    padding: 20px 50px 30px;
+    background-color: brown;
+}
+s::selection{
+    color: black;
+    background-color: tomato;
+}
+p::first-line{
+     font-size: 50px ;
+    color: blanchedalmond;
+}
+p::first-letter{
+    font-size: 100px;
+}
+p[~="nulla"]{
+    color: #78989;
+}

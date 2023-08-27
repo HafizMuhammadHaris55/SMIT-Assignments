@@ -1,0 +1,16 @@
+#testing{
+
+    display: flex;
+}
+.padd{
+    text-decoration: none;
+    color: black;
+    padding-right:80px ;
+}
+#img{
+
+    padding-right: 200px;
+}
+#button1{
+    margin-left: 100px;
+}

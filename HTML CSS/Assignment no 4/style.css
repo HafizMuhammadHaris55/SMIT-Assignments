@@ -1,0 +1,116 @@
+@import url("./utilities.css");
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+i{
+    font-size: 30px;
+    letter-spacing:5px ;
+}
+a{
+    padding: 30px;
+    
+}
+
+.container{
+    max-width: 1152px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+div#imgaaa{
+    text-align: center;
+}
+
+#hr{
+    border: none;
+    border: 1px solid black;
+    width: 100%;
+    justify-content: center;
+}
+#flex{
+    
+    display: flex;
+   
+}
+#flexdirection{
+    flex-direction: column;
+
+}
+.left{
+    text-align: left;
+}
+.adjustment{
+    border: 5px solid white ;
+    height: 500px;
+    width: 600px;
+    margin-left: 500px;
+}
+#a1{
+    text-align: center;
+    font-size: 20px;
+}
+.padd{
+    padding: 40px;
+}
+#a2{
+    border: none;
+    border: 1px dotted black;
+    
+
+}
+#a3{
+    display: flex;
+}
+#a4{
+    border:none ;
+    width:100% ;
+    border: 1px solid black;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+#a5{
+   margin-left: 800px;
+    text-align :center ;
+}
+#h1{
+    display: flex;
+    text-align: center;
+    padding: 50px;
+}
+
+#h2{
+    display: flex;
+    text-align: center;
+    padding: 50px;
+ 
+ 
+}
+
+#h3{
+    border: 1px solid black;
+    height: 400px;
+    width: 800px;
+    align-items: center;
+    border-top:20px solid  black;
+    margin-left: 500px;
+    text-align: center;   
+}
+#h4{
+    border: 1px solid black;
+    height: 600px;
+    width: 1350px;
+    margin-left: 200px;
+    background: #000;
+    color: aliceblue;
+    word-spacing: 10px;
+    font-size: 30px;
+    text-align: center;
+
+}

@@ -1,0 +1,90 @@
+#bg{
+     background: #F0FFF0;
+    
+}
+#display{
+    display: flex;
+}
+#padding{
+    padding-left:150px ;
+}
+#button1{
+    color: white;
+    border-radius: 30px;
+}
+#button2{
+    color: white;
+    border-radius: 30px;
+
+}
+#main{
+    display: flex;
+
+}
+#card1{
+    align-items: center;
+    padding-top:20px ;
+    
+    background: #F8FFFB;
+    border: 2px solid white;
+    height: 200px;
+    width: 200px;
+}
+#card2{
+    align-items: center;
+    padding-top:20px ;
+    background: #FFFFFF;
+    box-shadow: 5px 15px 30px;
+    border: 2px solid white;
+    height: 200px;
+    width: 200px;
+}
+#card3{
+    align-items: center;
+    padding-top:20px ;
+    background: #F8FFFB;
+    border: 2px solid white;
+    height: 200px;
+    width: 200px;
+}
+#card4{
+    align-items: center;
+    padding-top:20px ;
+    background: #F8FFFB;
+    border: 2px solid white;
+    height: 200px;
+    width: 200px;
+}
+.card{
+    margin:20px ;
+}
+#main2{
+    display: flex;
+}
+.main3{
+    display: flex;
+}
+#padd{
+    margin-right: 50px;
+    margin-left: 300px;
+}
+#main4{
+    display: flex;
+}
+#main5{
+    background-color: black;
+    
+    color: #FFFFFF;
+    
+}
+ul{
+    color: #FFFFFF;
+    padding: 50px 200px 60px 0px;
+    
+}
+#main6{
+    display: flex;
+}
+#padd1{
+    padding-left: 500px;
+}
